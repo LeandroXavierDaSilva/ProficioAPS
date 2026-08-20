@@ -1,7 +1,7 @@
 # 🚀 ProficioAPS — Plataforma de Mapeamento de Perfis e Habilidades Técnicas
 
 > **Projeto Disciplinar de Análise e Projetos de Sistemas (APS)** — Semestre 2026.1  
-> **Autores:** Samuel Victor | Leandro Xavier  
+> **Autores:** Leandro Xavier | Samuel Victor
 > **Entregável Oficial:** Product Backlog e Requisitos Ágeis
 
 ---
