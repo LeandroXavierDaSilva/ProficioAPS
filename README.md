@@ -1,4 +1,4 @@
-# 🚀 ProficioAPS — Plataforma de Mapeamento de Perfis e Habilidades Técnicas
+# ProficioAPS — Plataforma de Mapeamento de Perfis e Habilidades Técnicas
 
 > **Projeto Disciplinar de Análise e Projetos de Sistemas (APS)** — Semestre 2026.1  
 > **Autores:** Leandro Xavier | Samuel Victor
